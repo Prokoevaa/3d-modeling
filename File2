@@ -1,3 +1,5 @@
-cd ..
+cd /etc/local
 ls -l
 git commit
+
+systemctl
